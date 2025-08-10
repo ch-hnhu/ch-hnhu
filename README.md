@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=25&duration=6000&pause=1000&color=9B72FF&width=435&lines=%3C%2F+fullstack_web_developer%3E;%22think%2C+tinker%2C+thrive.%22" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=25&duration=6000&pause=1000&color=9B72FF&width=435&lines=%3C%2F+fullstack_web_developer%3E;%22think%2C+tinker%2C+thrive.%22" alt="Typing SVG" /></h2>
 
 <!-- GitHub Profile README -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ch-hnhu&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/ch-hnhu/github-widgetbox)
